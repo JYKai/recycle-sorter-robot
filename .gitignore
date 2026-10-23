@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# DOCS
+docs/curriculum/
+docs/blogs/
+
+# Server
+server_info.txt
